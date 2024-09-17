@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Tiko",
+      "salary": "600065",
+      "id": "101"
+    },
+    {
+      "name": "Ashot",
+      "salary": 460000,
+      "id": "102"
+    },
+    {
+      "id": "103",
+      "name": "Lusine",
+      "salary": 350000
+    },
+    {
+      "id": "9c6a",
+      "name": "Armen",
+      "salary": 90000
+    },
+    {
+      "id": "076d",
+      "name": "Armen",
+      "salary": 90000
+    },
+    {
+      "id": "50dc",
+      "name": "Armen",
+      "salary": 90000
+    }
+  ]
+}

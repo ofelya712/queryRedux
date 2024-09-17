@@ -1,0 +1,27 @@
+.table {
+    margin: 100px;
+    width: 600px;
+    border-collapse: collapse;
+}
+
+.table,
+tr,
+th,
+td {
+    border: 1px solid black;
+}
+
+.modal {
+    background: whitesmoke;
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border-radius: 8px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
